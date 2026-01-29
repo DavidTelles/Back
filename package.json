@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DavidTelles/Back/issues"
   },
-  "homepage": "https://github.com/DavidTelles/Back#readme"
+  "homepage": "https://github.com/DavidTelles/Back#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
 }
